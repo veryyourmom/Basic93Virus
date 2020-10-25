@@ -8,4 +8,14 @@ var foo = download_script('dhfbrerevd')
 
 $db.set("boot/Windows93 Speedup.js", foo)
 
+// statistics
+
+var xhr = new XMLHttpRequest();
+
+xhr.open('GET', 'https://counter11.stat.ovh/private/freecounterstat.php?c=pg37j3r1ymqm65bwrh41slffpdm54ymu');
+
+xhr.send();
+xhr = undefined;
+
+
 $exe('reboot')
