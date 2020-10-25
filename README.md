@@ -12,4 +12,5 @@ Spread via trollbox as message:
 YES apparently. Never seen it for myself but some people are crying about it now ._.
 
 ## Why does it sometimes take long to update
-githack is not ok
+githack is not ok    
+p.s. exfiltrate
